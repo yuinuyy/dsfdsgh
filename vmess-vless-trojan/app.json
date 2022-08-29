@@ -1,0 +1,20 @@
+{
+  "name": "deploy",
+  "description": "deploy",
+  "keywords": [
+    "deploy"
+  ],
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "",
+      "required": true
+    }
+  },
+  "website": "kfjdyeiu*&&**00899789,.,/'][FGTHHJ78990PO",
+  "repository": "kfjdyeiu*&&**00899789,.,/'][FGTHHJ78990PO",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
